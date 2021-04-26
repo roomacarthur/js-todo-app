@@ -10,7 +10,7 @@
   --dark: #085f63;
 }
 body {
-  background-image: linear-gradient(80deg, var(--dark), var(--blue));
+  background-color: var(--dark);
   font-family: "Poppins", sans-serif;
   color: white;
   min-height: 100vh;
